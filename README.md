@@ -12,7 +12,7 @@ Evaluate the impact of data augmentation when training ResNet50 ([[1]]) on CIFAR
 - Learning Rate Scheduler: Cosinne Annealing
 - Number of epochs: 100
 
-# Training Environment
+## Training Environment
 CPU: AMD Ryzen 5 7600
 GPU: AMD RX 5700XT
 RAM: 16GB
