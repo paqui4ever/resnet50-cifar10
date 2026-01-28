@@ -9,7 +9,7 @@ Evaluate the impact of data augmentation when training ResNet50 ([[1]]) on CIFAR
 ## Training Details
 - Optimizer: SGD + momentum + weight decay
 - Criterion: CrossEntropyLoss
-- Learning Rate Scheduler: Cosinne Annealing
+- Learning Rate Scheduler: Cosine Annealing
 - Number of epochs: 100
 
 ## Training Environment
